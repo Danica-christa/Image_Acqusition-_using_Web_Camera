@@ -1,5 +1,9 @@
+# Image Acquisition using Web Camera
 
-Aim:
+### Name : Danica Christa
+### Register No : 212223240022
+
+## Aim:
  
 To write a python program using OpenCV to capture the image from the web camera and do the following image manipulations.
 i) Write the frame as JPG 
